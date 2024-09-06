@@ -3,7 +3,7 @@
    <description></description>
    <name>a_FAQ</name>
    <tag></tag>
-   <elementGuidId>99f7e660-5a5f-4591-9868-965f6932c1b1</elementGuidId>
+   <elementGuidId>03805ff2-9a44-40a0-90ac-b90313a1c2ff</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2d5c72cd-bcf2-4592-a082-1b97960773c6</webElementGuid>
+      <webElementGuid>f77296e5-237d-4404-b4ea-9e2a0c0394fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>aJHbb dk90Ob hDrhEe HlqNPb</value>
-      <webElementGuid>5aeb486e-38c2-4be0-b92d-281f13dd7839</webElementGuid>
+      <webElementGuid>40643602-1d69-4fff-8e41-31e0511cc181</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>jsname</name>
       <type>Main</type>
       <value>QwLHlb</value>
-      <webElementGuid>a154b096-bbf6-4d26-b618-f7ad8aa3e3a7</webElementGuid>
+      <webElementGuid>6b517c40-d5a9-41f9-8fd6-38d15d6120be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>link</value>
-      <webElementGuid>ecc9f0ca-cc99-4c8c-acc5-413797fc0460</webElementGuid>
+      <webElementGuid>21637bc8-0e12-4564-9a96-90f4d8037923</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>587f3787-9205-4f79-93d0-c420cade33ae</webElementGuid>
+      <webElementGuid>93e4385f-501a-489e-8696-be8d7fed8532</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-navtype</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>c00a5555-dc90-4684-b2de-f520df0d33b4</webElementGuid>
+      <webElementGuid>5666a5c0-60ec-46ba-937b-847d7c526e9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/view/satisfies/faq</value>
-      <webElementGuid>1d7ab7d7-7312-4d09-83c4-136733f13cc3</webElementGuid>
+      <webElementGuid>f95f6f05-bff9-4a2e-8f11-af23841bf891</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-url</name>
       <type>Main</type>
       <value>/view/satisfies/faq</value>
-      <webElementGuid>1bdd352b-9f5a-4058-9ee5-20e79ccaab38</webElementGuid>
+      <webElementGuid>91b79f47-4271-4932-8986-84981b0e0af2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-type</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>4da52f25-e023-417a-b5c3-1ccd10bcdcec</webElementGuid>
+      <webElementGuid>31c8ac10-b764-4164-8e64-957100295fdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>data-level</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>01d439d7-f28a-4375-974f-5902378b58ff</webElementGuid>
+      <webElementGuid>dcea6a53-7cb3-47ce-8d0a-0015417bf89e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>text</name>
       <type>Main</type>
       <value>FAQ</value>
-      <webElementGuid>a7c0ae82-d9c2-477b-b15b-d7380c27b0b3</webElementGuid>
+      <webElementGuid>56e83401-79f0-4b70-a337-4b488af681b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yuynLe&quot;)/ul[@class=&quot;jYxBte Fpy8Db&quot;]/li[4]/div[@class=&quot;PsKE7e r8s4j-R6PoUb IKA38e baH5ib oNsfjf&quot;]/div[@class=&quot;I35ICb&quot;]/a[@class=&quot;aJHbb dk90Ob hDrhEe HlqNPb&quot;]</value>
-      <webElementGuid>85093507-7a35-4a3c-a63b-8c0448bb5e77</webElementGuid>
+      <webElementGuid>0810abd8-8cf4-47e8-9910-b98f68d371af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='yuynLe']/ul/li[4]/div/div/a</value>
-      <webElementGuid>a7535ad5-cba4-432f-9bae-f0ee91625867</webElementGuid>
+      <webElementGuid>046b571f-7433-4bad-9521-cb944d13cb27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'FAQ')]</value>
-      <webElementGuid>cc8e920b-da1e-4450-81e3-cbead265fcca</webElementGuid>
+      <webElementGuid>3e715352-53b4-4041-bc96-ad33f71ab758</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Team'])[1]/following::a[1]</value>
-      <webElementGuid>4e0d6e05-3c31-4e83-bf28-c0a6cdde5c5e</webElementGuid>
+      <webElementGuid>b19de3c4-5a7f-4b8e-bba4-dcecbd3eaa9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::a[2]</value>
-      <webElementGuid>7665e879-1a2b-46a6-b905-297183ff9c5a</webElementGuid>
+      <webElementGuid>00a43454-765e-41b6-bdab-009457be3148</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='What brings your team together towards a common goal? Write a description in one or two sentences.'])[1]/preceding::a[3]</value>
-      <webElementGuid>ff7edfc0-6328-4274-83cc-6c2e09114d18</webElementGuid>
+      <webElementGuid>adee120d-f331-41b2-ae9a-22c2e9e6f090</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='FAQ']/parent::*</value>
-      <webElementGuid>31cc9d68-c5dc-445c-8c3a-3ff544000c51</webElementGuid>
+      <webElementGuid>93a3f03f-cd57-48aa-9eda-6402dc9aeae5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/view/satisfies/faq')]</value>
-      <webElementGuid>f81011dd-4226-4226-b061-8dc4e18931b7</webElementGuid>
+      <webElementGuid>06864409-b944-43bb-b055-c60242427b62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/div/div/a</value>
-      <webElementGuid>1f9da0c4-8279-44f5-b41a-af953c415511</webElementGuid>
+      <webElementGuid>5a604b83-8f48-44f3-a151-589186355061</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,6 +189,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/view/satisfies/faq' and (text() = 'FAQ' or . = 'FAQ')]</value>
-      <webElementGuid>81b3c8bf-bcf0-4a5e-b0f4-7047152120d9</webElementGuid>
+      <webElementGuid>fe1f12b6-4f10-4132-a6d6-9535c849838d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

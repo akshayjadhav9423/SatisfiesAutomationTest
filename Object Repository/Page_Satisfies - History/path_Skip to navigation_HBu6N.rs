@@ -3,7 +3,7 @@
    <description></description>
    <name>path_Skip to navigation_HBu6N</name>
    <tag></tag>
-   <elementGuidId>fa63f6c6-6093-4468-8301-470950430608</elementGuidId>
+   <elementGuidId>a5ece004-546b-45fe-bf45-078e49844073</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>fd92f860-4ea7-4dee-8322-49c2a937af26</webElementGuid>
+      <webElementGuid>7e31cb3f-46e4-4086-bebd-b226d7ada9d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>HBu6N</value>
-      <webElementGuid>ec08d80e-04aa-401b-b5b1-855dd736b5dd</webElementGuid>
+      <webElementGuid>9e173cef-7905-48ca-82db-5f9e797d444c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>d</name>
       <type>Main</type>
       <value>M-9 0 L9 0</value>
-      <webElementGuid>5aea0c1d-c334-4209-93cc-8c551fb0d3b1</webElementGuid>
+      <webElementGuid>b37222c4-7404-4d61-9091-dab88e96aa09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>a24c7f4b-6ed7-4e15-b71c-54ab59df4eda</webElementGuid>
+      <webElementGuid>e4471e6c-c2ff-4611-8afe-eb35a21cfe3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>a9682da2-5fdc-437a-9817-bec8a6ccaa9c</webElementGuid>
+      <webElementGuid>4e55b836-de66-45da-901d-33ca3502cc9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;s9iPrd&quot;)/svg[@class=&quot;wFCWne&quot;]/g[1]/path[@class=&quot;HBu6N&quot;]</value>
-      <webElementGuid>e9413c4a-428b-4236-822b-9533eee68b0f</webElementGuid>
+      <webElementGuid>19780f5c-108b-4c8a-8c2c-bbccabcdbd7c</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
