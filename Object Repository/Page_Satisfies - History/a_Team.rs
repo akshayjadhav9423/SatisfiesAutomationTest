@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Team</name>
    <tag></tag>
-   <elementGuidId>215f4a93-bcb4-4712-8162-2d623abd9f8d</elementGuidId>
+   <elementGuidId>22ad929d-0b47-4e92-ac45-62221d6a57e6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>64dcced2-b16c-460e-8e6f-0f595bc1ef40</webElementGuid>
+      <webElementGuid>f60780c7-9ed0-42de-99b4-a476a11602da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>aJHbb dk90Ob hDrhEe HlqNPb</value>
-      <webElementGuid>3ab4138e-a771-4a32-9f1e-810e7cffce8b</webElementGuid>
+      <webElementGuid>9dbfb8e0-876a-4f6e-b668-c4069c3382ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>jsname</name>
       <type>Main</type>
       <value>QwLHlb</value>
-      <webElementGuid>de8b40a9-0d5f-4b19-bfcf-4960a64a88f3</webElementGuid>
+      <webElementGuid>2489ba76-bd51-49a0-809a-6eda71e522ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>link</value>
-      <webElementGuid>222df934-1372-4f64-924a-e4e74add0329</webElementGuid>
+      <webElementGuid>9f030511-f30b-41f2-b625-40814a9349f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>99ae1b0f-de5d-47b7-ae00-cb1f02e06fda</webElementGuid>
+      <webElementGuid>ed57987f-7bd0-4028-aa80-b1cc0f4c4f26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-navtype</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>8a06f980-64f9-4104-9e21-524f9ea91842</webElementGuid>
+      <webElementGuid>0013f29f-0b55-46b3-811a-88a0873008d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/view/satisfies/team</value>
-      <webElementGuid>c7d7f1b9-8bf1-4395-966b-8b57be1ffa57</webElementGuid>
+      <webElementGuid>a3085bdf-69f2-406b-8f53-1f7af47d4380</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-url</name>
       <type>Main</type>
       <value>/view/satisfies/team</value>
-      <webElementGuid>fe731889-dcf1-4d29-a2e8-6895038dabe9</webElementGuid>
+      <webElementGuid>5152a320-7f20-4fa5-90d6-6fe5c23e000e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-type</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>5680dde9-bd7f-4fa4-a116-913a4a636fe3</webElementGuid>
+      <webElementGuid>0111af56-9c62-4c25-a6e2-2f6713c0df65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>data-level</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>dd7300af-1dca-439a-a988-41471b231d21</webElementGuid>
+      <webElementGuid>058102db-11f0-47c1-bfa1-4ed35bbbb877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Team</value>
-      <webElementGuid>07cd9391-a732-47f0-a716-d5faac2e1dbc</webElementGuid>
+      <webElementGuid>5b92aa19-77f9-43a4-8a5d-e85f58312873</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yuynLe&quot;)/ul[@class=&quot;jYxBte Fpy8Db&quot;]/li[3]/div[@class=&quot;PsKE7e r8s4j-R6PoUb IKA38e baH5ib oNsfjf&quot;]/div[@class=&quot;I35ICb&quot;]/a[@class=&quot;aJHbb dk90Ob hDrhEe HlqNPb&quot;]</value>
-      <webElementGuid>e17757f2-7d0f-4336-9d1f-6382dc8b811d</webElementGuid>
+      <webElementGuid>ec45a4fc-90fd-4f41-9f08-bb81f33ba176</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='yuynLe']/ul/li[3]/div/div/a</value>
-      <webElementGuid>e8a613ad-46fc-492a-a7bb-0dbf2a802dcf</webElementGuid>
+      <webElementGuid>7a8b0ced-955c-4797-8fd5-52d38ced46fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Team')]</value>
-      <webElementGuid>002792ba-ebe6-454d-af5a-07ea90f2c8f1</webElementGuid>
+      <webElementGuid>f74fc9e6-4bb1-4572-9da1-c4252f49503c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::a[1]</value>
-      <webElementGuid>4741cd09-e7f1-4d94-bb02-9af21983fa17</webElementGuid>
+      <webElementGuid>5d9dac12-6eff-424f-b136-1b9e3c9ed3bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
-      <webElementGuid>c4211175-6ba7-4b31-865b-ca75452ad3d1</webElementGuid>
+      <webElementGuid>52463aab-37a0-42a5-a24f-a27f7b86bbb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/preceding::a[1]</value>
-      <webElementGuid>9fac4e83-dc01-46e4-913d-26fc40cca9da</webElementGuid>
+      <webElementGuid>d4ea9759-3b01-4c67-85c4-954b4becba20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Team']/parent::*</value>
-      <webElementGuid>6ef799bc-6e34-4ddf-882c-24dc3b2d4cbb</webElementGuid>
+      <webElementGuid>3dcf6145-63ca-4b22-8cda-1b66db1e1ad7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/view/satisfies/team')]</value>
-      <webElementGuid>2adc2caf-7710-4fc7-9372-f0e14be70c20</webElementGuid>
+      <webElementGuid>74c52979-a457-40c6-8b32-8a6a490868af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/div/a</value>
-      <webElementGuid>893dcaf5-7d76-4e51-8b0c-aad58b879df8</webElementGuid>
+      <webElementGuid>46103f85-4454-4e82-b991-e22c51f49880</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,6 +189,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/view/satisfies/team' and (text() = 'Team' or . = 'Team')]</value>
-      <webElementGuid>d9545b98-275c-4bee-8526-71645ae0f7c5</webElementGuid>
+      <webElementGuid>a0e066a0-59d6-4594-8258-c6883fae15b9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

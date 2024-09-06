@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sites.google.com/view/satisfies/home')
 
-WebUI.click(findTestObject('Object Repository/Page_Satisfies/svg_Skip to navigation_wFCWne'))
+WebUI.click(findTestObject('Object Repository/Page_Satisfies/div_Skip to navigation_s9iPrd'))
 
 WebUI.click(findTestObject('Object Repository/Page_Satisfies/a_History'))
 
@@ -29,15 +29,13 @@ WebUI.click(findTestObject('Object Repository/Page_Satisfies - History/path_Skip
 
 WebUI.click(findTestObject('Object Repository/Page_Satisfies - History/a_Team'))
 
-WebUI.click(findTestObject('Object Repository/Page_Satisfies - Team/svg_Skip to navigation_wFCWne'))
+WebUI.click(findTestObject('Object Repository/Page_Satisfies - Team/div_Skip to navigation_s9iPrd'))
 
 WebUI.click(findTestObject('Object Repository/Page_Satisfies - Team/a_FAQ'))
 
 WebUI.click(findTestObject('Object Repository/Page_Satisfies - FAQ/svg_Skip to navigation_wFCWne'))
 
 WebUI.click(findTestObject('Object Repository/Page_Satisfies - FAQ/a_Home'))
-
-WebUI.click(findTestObject('Object Repository/Page_Satisfies/img_FAQ_lzy1Td'))
 
 WebUI.closeBrowser()
 

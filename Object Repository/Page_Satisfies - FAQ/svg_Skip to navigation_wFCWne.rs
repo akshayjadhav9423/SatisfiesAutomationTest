@@ -3,7 +3,7 @@
    <description></description>
    <name>svg_Skip to navigation_wFCWne</name>
    <tag></tag>
-   <elementGuidId>0914a139-7fdf-47ff-9791-a3ddb2d99397</elementGuidId>
+   <elementGuidId>8f27a02c-edaf-4634-a0f7-c1c60d198eb9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>021ae532-9ee4-46c6-8600-a6dd1d76553a</webElementGuid>
+      <webElementGuid>eff0a69f-8a10-478c-820d-09311c1d9457</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>wFCWne</value>
-      <webElementGuid>9350b515-edff-47b5-aa1f-00657e410cb7</webElementGuid>
+      <webElementGuid>36704c81-b3dc-4c26-96ba-9fa3c13e958b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>c4340fa6-4dd2-48c0-9503-a7c97f327b98</webElementGuid>
+      <webElementGuid>b19e1bea-1abf-4f81-a8bd-624cd74207d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>0ffb4cb3-4c2e-474f-b1fa-c4f1ae41ce0c</webElementGuid>
+      <webElementGuid>fb1e9150-5900-4c09-a5cb-25ddc6ce794a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>jsname</name>
       <type>Main</type>
       <value>B1n9ub</value>
-      <webElementGuid>f3b32c0e-89c5-4c79-bade-0d63851b7edb</webElementGuid>
+      <webElementGuid>7f0ce6fa-324e-4cf3-a65b-6c932ce1f06c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2780c0d7-ba4a-4f3a-8d9c-cc7cc42539ac</webElementGuid>
+      <webElementGuid>6acd5bf3-87f9-4b35-abbc-1bfb05ff12c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;s9iPrd&quot;)/svg[@class=&quot;wFCWne&quot;]</value>
-      <webElementGuid>60df5072-12a3-4f85-a436-6ad940bdbbab</webElementGuid>
+      <webElementGuid>095dfd02-727a-4e18-9210-b5f4b0f21088</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to navigation'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>ec668c16-4f6d-45e7-b8b5-8062ee8fe2ac</webElementGuid>
+      <webElementGuid>b3eef56b-c248-4427-9f45-fe7705a97e62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>0636894b-0f31-46e7-aea4-faab4b59cf48</webElementGuid>
+      <webElementGuid>f239d61d-26ce-4fa9-9bbd-c2610cf13c92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>26539014-b58e-4bfa-baba-bf629ecb7812</webElementGuid>
+      <webElementGuid>49237df9-d273-45ab-a1ec-f6f1c53291b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
