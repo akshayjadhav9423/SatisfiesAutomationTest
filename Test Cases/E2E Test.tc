@@ -1,1 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>373c12b1-9982-4826-be1c-7466f8ebfa1b</testCaseGuid>
+</TestCaseEntity>
 
